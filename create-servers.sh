@@ -2,7 +2,7 @@
 
 ##### Change these values ###
 ZONE_ID="Z0366464237Z7LZLZPKFA"
-DOMAIN="devopsb70.online"
+DOMAIN="sgpf.online"
 SG_NAME="allow-all"
 env=dev
 #############################
