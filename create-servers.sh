@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z0366464237Z7LZLZPKFA"
+ZONE_ID="Z09292322HB8I9NURLTQZ"
 DOMAIN="sgpf.online"
 SG_NAME="allow-all"
 env=dev
